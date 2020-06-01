@@ -10,6 +10,9 @@ I used the following stacks for this project:
 - OpenWeather API
 
 
+![weatherpage](https://i.ibb.co/TYjbQz7/Screen-Shot-2020-06-01-at-5-00-56-PM.png)
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
